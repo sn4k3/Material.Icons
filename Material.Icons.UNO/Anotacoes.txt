@@ -1,0 +1,9 @@
+﻿
+
+
+https://stackoverflow.com/questions/45140252/using-geometry-resources-in-xaml
+
+https://learn.microsoft.com/en-us/windows/apps/winui/winui3/xaml-templated-controls-csharp-winui-3
+
+
+

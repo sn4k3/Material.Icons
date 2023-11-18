@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"MaterialIconsUNODemo.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"MaterialIconsUNODemo.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

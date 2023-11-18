@@ -15,6 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.Avalonia", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.Avalonia.Demo", "Material.Icons.Avalonia.Demo\Material.Icons.Avalonia.Demo.csproj", "{F4056349-7110-4C9A-8EEB-8830441F2E0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.UNO", "Material.Icons.UNO\Material.Icons.UNO.csproj", "{0080743C-D512-4C45-B329-99576FBCDEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.UNO.Demo", "Material.Icons.UNO.Demo\Material.Icons.UNO.Demo\Material.Icons.UNO.Demo.csproj", "{281E8426-A16D-4B42-8EFC-FF991F8634D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.UNO.Demo.Base", "Material.Icons.UNO.Demo\Material.Icons.UNO.Demo.Base\Material.Icons.UNO.Demo.Base.csproj", "{85D0016F-C631-45C5-A868-1395D52B4D1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Material.Icons.UNO.Demo.Windows", "Material.Icons.UNO.Demo\Material.Icons.UNO.Demo.Windows\Material.Icons.UNO.Demo.Windows.csproj", "{783959E3-EED8-48B9-8B32-F70CC649508C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +51,22 @@ Global
 		{F4056349-7110-4C9A-8EEB-8830441F2E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4056349-7110-4C9A-8EEB-8830441F2E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4056349-7110-4C9A-8EEB-8830441F2E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0080743C-D512-4C45-B329-99576FBCDEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0080743C-D512-4C45-B329-99576FBCDEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0080743C-D512-4C45-B329-99576FBCDEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0080743C-D512-4C45-B329-99576FBCDEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281E8426-A16D-4B42-8EFC-FF991F8634D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281E8426-A16D-4B42-8EFC-FF991F8634D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281E8426-A16D-4B42-8EFC-FF991F8634D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281E8426-A16D-4B42-8EFC-FF991F8634D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D0016F-C631-45C5-A868-1395D52B4D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D0016F-C631-45C5-A868-1395D52B4D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D0016F-C631-45C5-A868-1395D52B4D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D0016F-C631-45C5-A868-1395D52B4D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783959E3-EED8-48B9-8B32-F70CC649508C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{783959E3-EED8-48B9-8B32-F70CC649508C}.Debug|Any CPU.Build.0 = Debug|x86
+		{783959E3-EED8-48B9-8B32-F70CC649508C}.Release|Any CPU.ActiveCfg = Release|x86
+		{783959E3-EED8-48B9-8B32-F70CC649508C}.Release|Any CPU.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
