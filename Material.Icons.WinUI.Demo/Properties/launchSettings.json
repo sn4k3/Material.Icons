@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Material.Icons.WinUI.Demo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Material.Icons.WinUI.Demo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
